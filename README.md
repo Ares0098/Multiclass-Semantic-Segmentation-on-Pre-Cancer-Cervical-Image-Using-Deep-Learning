@@ -1,6 +1,6 @@
 # Multiclass-Semantic-Segmentation-on-Pre-Cancer-Cervical-Image-Using-Deep-Learning
 Project Detail :
-- This project is the final project of my undergraduate education. Its aim is to conduct research on precervical cancer objects by applying a semantic segmentation approach using deep learning methods. 
+- This project is the final project of my undergraduate education. Its aim is to conduct research on pre cervical cancer objects by applying a semantic segmentation approach using deep learning methods. 
 - The objects to be segmented in the images are Lesions, Columnar, Transformation Zone, and Cervical Area.
 - The deep learning architecture used is the U-Net architecture, utilizing a Backbone Network from another deep learning architecture.
 - Model parameters
